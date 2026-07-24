@@ -6,7 +6,19 @@ Building for the Linux desktop: a greeter worth looking at, terminal animation e
 
 ### opencode-cursor · 622★
 
-Cursor's agent and Pro models as an OpenCode provider. OAuth, HTTP proxy, streaming tool bridge to a closed binary. [repo →](https://github.com/Nomadcxx/opencode-cursor)
+<a href="https://github.com/Nomadcxx/opencode-cursor"><img src="https://raw.githubusercontent.com/Nomadcxx/opencode-cursor/main/docs/header.png" width="100%" alt="opencode-cursor"></a>
+
+Cursor's agent and Pro models as an OpenCode provider — OAuth, an HTTP proxy, and a streaming tool bridge to a closed binary.
+
+- every model your Cursor subscription exposes, inside OpenCode
+- streaming tool-call interception, session resume, schema-compatible tool mapping
+- MCP tools through the built-in `mcptool` bridge — zero extra config, it reads the same `opencode.json` OpenCode already uses
+
+```sh
+npm install -g @rama_nigg/open-cursor && open-cursor install
+```
+
+[repo →](https://github.com/Nomadcxx/opencode-cursor)
 
 ### sysc-greet · 375★
 
