@@ -4,6 +4,8 @@
 
 Building for the Linux desktop: a greeter worth looking at, terminal animation engines, wallpaper and media tooling, and a bridge that puts Cursor's agent inside OpenCode.
 
+<br>
+
 ### opencode-cursor · 622★
 
 **No prompt limits. No broken streams. Full thinking + tool support in OpenCode. Your Cursor subscription, properly integrated.**
@@ -33,23 +35,46 @@ Verify with `opencode models | grep cursor-acp`.
 
 ### sysc-greet · 375★
 
+A graphical console greeter for [greetd](https://git.sr.ht/~kennylevinsen/greetd), written in Go with Bubble Tea. Animated backgrounds, theming that matches the rest of my tooling — Eldritch, RAMA, Dracula — and a session picker that doesn't look like it was drawn in 1998.
+
+Runs on niri by default, with cagebreak and sway variants. Installs with one line on Arch, Debian/Ubuntu, Fedora and openSUSE; four AUR packages and a NixOS flake are maintained alongside.
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/Nomadcxx/sysc-greet/master/install.sh | sudo bash
+```
+
+[repo →](https://github.com/Nomadcxx/sysc-greet) · [docs](https://nomadcxx.github.io/sysc-greet/)
+
+<br>
+
 <img src="https://raw.githubusercontent.com/Nomadcxx/sysc-greet/master/assets/showcase.gif" width="100%" alt="sysc-greet showcase">
 
-Animated TUI greeter for greetd. Kitty + cage, niri/sway/hyprland sessions, theming — Eldritch, RAMA, Dracula and more — plus an installer. [repo →](https://github.com/Nomadcxx/sysc-greet)
-
 ---
+
+<br>
 
 ### sysc-Go · 139★
 
-<p>
-  <img src="https://raw.githubusercontent.com/Nomadcxx/sysc-Go/master/assets/fire.gif" width="32%" alt="fire effect">
-  <img src="https://raw.githubusercontent.com/Nomadcxx/sysc-Go/master/assets/matrix.gif" width="32%" alt="matrix effect">
-  <img src="https://raw.githubusercontent.com/Nomadcxx/sysc-Go/master/assets/beams.gif" width="32%" alt="beams effect">
-</p>
+The terminal animation library that drives sysc-greet's backgrounds — pure Go, drop-in for any Bubble Tea application, and a standalone CLI when you just want the terminal to do something interesting.
 
-Terminal animation library in pure Go — the engine behind sysc-greet's effects. [repo →](https://github.com/Nomadcxx/sysc-Go)
+**Standalone effects** — fire, matrix rain, ASCII rain, fireworks, beams, aquarium.
+**Text effects** — fire text, matrix art, rain art, pour, print, beam text, ring text, blackhole.
+
+Text effects render through `.bit` bitmap fonts, with a converter for figlet fonts and a TUI editor for drawing your own.
+
+```sh
+syscgo -effect matrix -theme eldritch -duration 10
+```
+
+[repo →](https://github.com/Nomadcxx/sysc-Go)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Nomadcxx/sysc-Go/master/assets/matrix.gif" width="100%" alt="matrix rain effect">
 
 ---
+
+<br>
 
 ### more
 
