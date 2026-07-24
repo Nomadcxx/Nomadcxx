@@ -1,13 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.1 27.0" width="135.1" height="27.0" role="img" aria-label="RAMA">
-  <style>text { font-family: ui-monospace, "Cascadia Mono", Menlo, Consolas, monospace; white-space: pre; }
-    text { fill: #1c1f2e; }
-    @media (prefers-color-scheme: dark) { text { fill: #e8eaf2; } }
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151.5 29.0" width="151.5" height="29.0" role="img" aria-label="RAMA">
+  <style>
+    .ink { fill: #1c1f2e; }
+    @media (prefers-color-scheme: dark) { .ink { fill: #e8eaf2; } }
   </style>
-  <text fill="currentColor" font-size="4.6" letter-spacing="-0.15" xml:space="preserve"
-    ><tspan x="1" y="6.6">████████      ██████    ████      ████     ██████  </tspan
-    ><tspan x="1" dy="4.6">████  ████  ████  ████  ██████  ██████   ████  ████</tspan
-    ><tspan x="1" dy="4.6">████  ████  ████  ████  ██████████████   ████  ████</tspan
-    ><tspan x="1" dy="4.6">████████    ██████████  ████  ██  ████   ██████████</tspan
-    ><tspan x="1" dy="4.6">████  ████  ████  ████  ████      ████   ████  ████</tspan
-  ></text>
+  <g class="ink">
+    <rect x="2.94" y="2.95" width="22.93" height="4.69"/>
+    <rect x="42.87" y="2.95" width="17.23" height="4.69"/>
+    <rect x="71.39" y="2.95" width="11.52" height="23.09"/>
+    <rect x="99.91" y="2.95" width="11.52" height="23.09"/>
+    <rect x="125.58" y="2.95" width="17.23" height="4.69"/>
+    <rect x="2.94" y="7.55" width="11.52" height="18.49"/>
+    <rect x="20.05" y="7.55" width="11.52" height="9.29"/>
+    <rect x="37.17" y="7.55" width="11.52" height="18.49"/>
+    <rect x="54.28" y="7.55" width="11.52" height="18.49"/>
+    <rect x="82.80" y="7.55" width="5.82" height="9.29"/>
+    <rect x="94.21" y="7.55" width="5.82" height="9.29"/>
+    <rect x="119.87" y="7.55" width="11.52" height="18.49"/>
+    <rect x="136.99" y="7.55" width="11.52" height="18.49"/>
+    <rect x="88.50" y="12.15" width="5.82" height="9.29"/>
+    <rect x="14.35" y="16.75" width="11.52" height="4.69"/>
+    <rect x="48.57" y="16.75" width="5.82" height="4.69"/>
+    <rect x="131.28" y="16.75" width="5.82" height="4.69"/>
+    <rect x="20.05" y="21.35" width="11.52" height="4.69"/>
+  </g>
 </svg>
