@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 157 35" width="157" height="35" role="img" aria-label="RAMA">
+  <defs>
+    <linearGradient id="rama" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#37f499"/>
+      <stop offset="0.55" stop-color="#04d1f9"/>
+      <stop offset="1" stop-color="#a48cf2"/>
+    </linearGradient>
+  </defs>
+  <style>text { font-family: ui-monospace, "Cascadia Mono", Menlo, Consolas, monospace; white-space: pre; }</style>
+  <rect fill="#212337" x="0" y="0" width="157" height="35" rx="5"/>
+  <text fill="url(#rama)" font-size="4.6" letter-spacing="-0.15" xml:space="preserve"
+    ><tspan x="8" y="10.6">████████      ██████    ████      ████     ██████  </tspan
+    ><tspan x="8" dy="4.6">████  ████  ████  ████  ██████  ██████   ████  ████</tspan
+    ><tspan x="8" dy="4.6">████  ████  ████  ████  ██████████████   ████  ████</tspan
+    ><tspan x="8" dy="4.6">████████    ██████████  ████  ██  ████   ██████████</tspan
+    ><tspan x="8" dy="4.6">████  ████  ████  ████  ████      ████   ████  ████</tspan
+  ></text>
+</svg>
