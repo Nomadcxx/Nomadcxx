@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nomadcxx/Nomadcxx/main/assets/banner.svg" width="960" alt="RAMA — terminal-native tooling for the linux desktop">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Nomadcxx/Nomadcxx/main/assets/banner-mobile.svg">
+    <img src="https://raw.githubusercontent.com/Nomadcxx/Nomadcxx/main/assets/banner.svg" width="960" alt="RAMA — terminal-native tooling for the linux desktop">
+  </picture>
 </p>
 
 Building for the Linux desktop: a greeter worth looking at, terminal animation engines, wallpaper and media tooling, and a bridge that puts Cursor's agent inside OpenCode.
