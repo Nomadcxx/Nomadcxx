@@ -9,7 +9,7 @@ Building for the Linux desktop: a greeter worth looking at, terminal animation e
 
 <br>
 
-### opencode-cursor · 651★
+### opencode-cursor · 654★
 
 **No prompt limits. No broken streams. Full thinking + tool support in OpenCode. Your Cursor subscription, properly integrated.**
 
@@ -93,8 +93,8 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
+- 2026-08-06 — sysc-walls: new commits
 - 2026-08-02 — plex2jellyfin v0.1.10
-- 2026-07-24 — sysc-walls: new commits
 - 2026-07-24 — sysc-Go: new commits
 <!-- ACTIVITY:END -->
 
