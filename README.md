@@ -9,7 +9,7 @@ Building for the Linux desktop: a greeter worth looking at, terminal animation e
 
 <br>
 
-### opencode-cursor · 654★
+### opencode-cursor · 653★
 
 **No prompt limits. No broken streams. Full thinking + tool support in OpenCode. Your Cursor subscription, properly integrated.**
 
@@ -83,7 +83,7 @@ syscgo -effect matrix -theme eldritch -duration 10
 
 | repo | what it is | |
 |---|---|---|
-| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility — static images + video via gstreamer | 72★ |
+| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility — static images + video via gstreamer | 73★ |
 | [moonbit](https://github.com/Nomadcxx/moonbit) | system cleaner with a TUI and CLI | 65★ |
 | [sysc-walls](https://github.com/Nomadcxx/sysc-walls) | terminal screensaver with idle detection | 39★ |
 | [plex2jellyfin](https://github.com/Nomadcxx/plex2jellyfin) | migrate Plex → Jellyfin and keep the library clean | |
@@ -93,9 +93,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
+- 2026-08-10 — opencode-cursor v2.5.6
 - 2026-08-07 — sysc-walls: new commits
 - 2026-08-02 — plex2jellyfin v0.1.10
-- 2026-07-24 — sysc-Go: new commits
 <!-- ACTIVITY:END -->
 
 ### support
