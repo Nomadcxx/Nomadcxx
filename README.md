@@ -9,7 +9,7 @@ Building for the Linux desktop: a greeter worth looking at, terminal animation e
 
 <br>
 
-### opencode-cursor · 668★
+### opencode-cursor · 671★
 
 **No prompt limits. No broken streams. Full thinking + tool support in OpenCode. Your Cursor subscription, properly integrated.**
 
@@ -56,7 +56,7 @@ curl -fsSL https://raw.githubusercontent.com/Nomadcxx/sysc-greet/master/install.
 
 <br>
 
-### sysc-Go · 140★
+### sysc-Go · 141★
 
 The terminal animation library that drives sysc-greet's backgrounds — pure Go, drop-in for any Bubble Tea application, and a standalone CLI when you just want the terminal to do something interesting.
 
@@ -93,9 +93,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
+- 2026-08-17 — moonbit: new commits
 - 2026-08-13 — opencode-cursor v2.5.7
 - 2026-08-07 — sysc-walls: new commits
-- 2026-08-02 — plex2jellyfin v0.1.10
 <!-- ACTIVITY:END -->
 
 ### support
