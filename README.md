@@ -93,7 +93,7 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
-- 2026-08-17 — moonbit: new commits
+- 2026-08-18 — moonbit v1.5.1
 - 2026-08-13 — opencode-cursor v2.5.7
 - 2026-08-07 — sysc-walls: new commits
 <!-- ACTIVITY:END -->
