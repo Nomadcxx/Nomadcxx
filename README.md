@@ -56,7 +56,7 @@ curl -fsSL https://raw.githubusercontent.com/Nomadcxx/sysc-greet/master/install.
 
 <br>
 
-### sysc-Go · 146★
+### sysc-Go · 147★
 
 The terminal animation library that drives sysc-greet's backgrounds — pure Go, drop-in for any Bubble Tea application, and a standalone CLI when you just want the terminal to do something interesting.
 
@@ -83,7 +83,7 @@ syscgo -effect matrix -theme eldritch -duration 10
 
 | repo | what it is | |
 |---|---|---|
-| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility — static images + video via gstreamer | 75★ |
+| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility — static images + video via gstreamer | 76★ |
 | [moonbit](https://github.com/Nomadcxx/moonbit) | system cleaner with a TUI and CLI | 66★ |
 | [sysc-walls](https://github.com/Nomadcxx/sysc-walls) | terminal screensaver with idle detection | 40★ |
 | [plex2jellyfin](https://github.com/Nomadcxx/plex2jellyfin) | migrate Plex → Jellyfin and keep the library clean | |
