@@ -9,7 +9,7 @@ Building for the Linux desktop: a greeter worth looking at, terminal animation e
 
 <br>
 
-### opencode-cursor · 692★
+### opencode-cursor · 691★
 
 **No prompt limits. No broken streams. Full thinking + tool support in OpenCode. Your Cursor subscription, properly integrated.**
 
