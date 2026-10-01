@@ -93,9 +93,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
+- 2026-09-30 — sysc-walls: new commits
 - 2026-09-29 — opencode-cursor v2.5.9
 - 2026-08-21 — plex2jellyfin v0.1.11
-- 2026-08-18 — moonbit v1.5.1
 <!-- ACTIVITY:END -->
 
 ### support
