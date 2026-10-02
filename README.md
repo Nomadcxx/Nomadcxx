@@ -83,7 +83,7 @@ syscgo -effect matrix -theme eldritch -duration 10
 
 | repo | what it is | |
 |---|---|---|
-| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility — static images + video via gstreamer | 78★ |
+| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility — static images + video via gstreamer | 79★ |
 | [moonbit](https://github.com/Nomadcxx/moonbit) | system cleaner with a TUI and CLI | 66★ |
 | [sysc-walls](https://github.com/Nomadcxx/sysc-walls) | terminal screensaver with idle detection | 40★ |
 | [plex2jellyfin](https://github.com/Nomadcxx/plex2jellyfin) | migrate Plex → Jellyfin and keep the library clean | |
@@ -93,9 +93,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
-- 2026-09-30 — sysc-walls: new commits
-- 2026-09-29 — opencode-cursor v2.5.9
-- 2026-08-21 — plex2jellyfin v0.1.11
+- 2026-10-02 — opencode-cursor v2.5.10
+- 2026-10-01 — sysc-walls: new commits
+- 2026-10-01 — searxng-RAMA: new commits
 <!-- ACTIVITY:END -->
 
 ### support
