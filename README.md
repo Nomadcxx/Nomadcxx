@@ -9,7 +9,7 @@ Building for the Linux desktop: a greeter worth looking at, terminal animation e
 
 <br>
 
-### opencode-cursor · 700★
+### opencode-cursor · 702★
 
 **No prompt limits. No broken streams. Full thinking + tool support in OpenCode. Your Cursor subscription, properly integrated.**
 
@@ -36,7 +36,7 @@ Verify with `opencode models | grep cursor-acp`.
 
 ---
 
-### sysc-greet · 388★
+### sysc-greet · 387★
 
 A graphical console greeter for [greetd](https://git.sr.ht/~kennylevinsen/greetd), written in Go with Bubble Tea. Animated backgrounds, theming that matches the rest of my tooling — Eldritch, RAMA, Dracula — and a session picker that doesn't look like it was drawn in 1998.
 
@@ -56,7 +56,7 @@ curl -fsSL https://raw.githubusercontent.com/Nomadcxx/sysc-greet/master/install.
 
 <br>
 
-### sysc-Go · 150★
+### sysc-Go · 151★
 
 The terminal animation library that drives sysc-greet's backgrounds — pure Go, drop-in for any Bubble Tea application, and a standalone CLI when you just want the terminal to do something interesting.
 
@@ -93,7 +93,7 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
-- 2026-10-03 — sysc-walls: new commits
+- 2026-10-06 — sysc-walls v1.0.2
 - 2026-10-03 — sysc-Go v1.0.5
 - 2026-10-03 — searxng-RAMA: new commits
 <!-- ACTIVITY:END -->
