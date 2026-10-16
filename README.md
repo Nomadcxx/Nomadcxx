@@ -36,7 +36,7 @@ Verify with `opencode models | grep cursor-acp`.
 
 ---
 
-### sysc-greet · 389★
+### sysc-greet · 390★
 
 A graphical console greeter for [greetd](https://git.sr.ht/~kennylevinsen/greetd), written in Go with Bubble Tea. Animated backgrounds, theming that matches the rest of my tooling — Eldritch, RAMA, Dracula — and a session picker that doesn't look like it was drawn in 1998.
 
@@ -93,9 +93,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
+- 2026-10-15 — opencode-cursor v2.5.13
 - 2026-10-14 — sysc-walls v1.1.1
 - 2026-10-13 — sysc-Go v1.0.7
-- 2026-10-08 — opencode-cursor v2.5.12
 <!-- ACTIVITY:END -->
 
 ### support
