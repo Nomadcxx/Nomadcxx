@@ -9,7 +9,7 @@ Building for the Linux desktop: a greeter worth looking at, terminal animation e
 
 <br>
 
-### opencode-cursor · 708★
+### opencode-cursor · 709★
 
 **No prompt limits. No broken streams. Full thinking + tool support in OpenCode. Your Cursor subscription, properly integrated.**
 
@@ -83,9 +83,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 
 | repo | what it is | |
 |---|---|---|
-| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility — static images + video via gstreamer | 80★ |
+| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility — static images + video via gstreamer | 81★ |
 | [moonbit](https://github.com/Nomadcxx/moonbit) | system cleaner with a TUI and CLI | 68★ |
-| [sysc-walls](https://github.com/Nomadcxx/sysc-walls) | terminal screensaver with idle detection | 40★ |
+| [sysc-walls](https://github.com/Nomadcxx/sysc-walls) | terminal screensaver with idle detection | 39★ |
 | [plex2jellyfin](https://github.com/Nomadcxx/plex2jellyfin) | migrate Plex → Jellyfin and keep the library clean | |
 | [searxng-RAMA](https://github.com/Nomadcxx/searxng-RAMA) | SearXNG with custom themes and privacy defaults | |
 | [noctalia-hermes-agent](https://github.com/Nomadcxx/noctalia-hermes-agent) | Noctalia bar plugin for Hermes Agent | |
@@ -93,9 +93,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
-- 2026-10-15 — opencode-cursor v2.5.13
-- 2026-10-14 — sysc-walls v1.1.1
-- 2026-10-13 — sysc-Go v1.0.7
+- 2026-10-16 — sysc-walls v1.2.0
+- 2026-10-16 — sysc-Go v1.0.8
+- 2026-10-16 — plex2jellyfin v0.1.12
 <!-- ACTIVITY:END -->
 
 ### support
