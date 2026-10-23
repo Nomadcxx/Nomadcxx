@@ -36,7 +36,7 @@ Verify with `opencode models | grep cursor-acp`.
 
 ---
 
-### sysc-greet · 389★
+### sysc-greet · 390★
 
 A graphical console greeter for [greetd](https://git.sr.ht/~kennylevinsen/greetd), written in Go with Bubble Tea. Animated backgrounds, theming that matches the rest of my tooling — Eldritch, RAMA, Dracula — and a session picker that doesn't look like it was drawn in 1998.
 
@@ -85,7 +85,7 @@ syscgo -effect matrix -theme eldritch -duration 10
 |---|---|---|
 | [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility — static images + video via gstreamer | 81★ |
 | [moonbit](https://github.com/Nomadcxx/moonbit) | system cleaner with a TUI and CLI | 67★ |
-| [sysc-walls](https://github.com/Nomadcxx/sysc-walls) | terminal screensaver with idle detection | 39★ |
+| [sysc-walls](https://github.com/Nomadcxx/sysc-walls) | terminal screensaver with idle detection | 41★ |
 | [plex2jellyfin](https://github.com/Nomadcxx/plex2jellyfin) | migrate Plex → Jellyfin and keep the library clean | |
 | [searxng-RAMA](https://github.com/Nomadcxx/searxng-RAMA) | SearXNG with custom themes and privacy defaults | |
 | [noctalia-hermes-agent](https://github.com/Nomadcxx/noctalia-hermes-agent) | Noctalia bar plugin for Hermes Agent | |
@@ -93,9 +93,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
+- 2026-10-23 — opencode-cursor v2.5.17
+- 2026-10-22 — sysc-walls v1.3.0
 - 2026-10-17 — searxng-RAMA: new commits
-- 2026-10-16 — sysc-walls v1.2.0
-- 2026-10-16 — sysc-Go v1.0.8
 <!-- ACTIVITY:END -->
 
 ### support
