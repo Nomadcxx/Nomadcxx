@@ -50,7 +50,7 @@ curl -fsSL https://raw.githubusercontent.com/Nomadcxx/sysc-greet/master/install.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Nomadcxx/Nomadcxx/main/assets/sysc-greet.webp" width="100%" alt="sysc-greet tour: compositor headers, Higgs Field, Napoleon and other particle backgrounds, themes, and border styles">
+<img src="https://raw.githubusercontent.com/Nomadcxx/sysc-greet/master/assets/showcase.webp" width="100%" alt="sysc-greet tour: compositor headers, Higgs Field, Napoleon and other particle backgrounds, themes, and border styles">
 
 ---
 
@@ -73,7 +73,7 @@ syscgo -effect matrix -theme eldritch -duration 10
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Nomadcxx/Nomadcxx/main/assets/sysc-go.webp" width="100%" alt="matrix rain effect">
+<img src="https://raw.githubusercontent.com/Nomadcxx/sysc-Go/master/assets/matrix.webp" width="100%" alt="matrix rain effect">
 
 ---
 
