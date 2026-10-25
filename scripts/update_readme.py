@@ -66,7 +66,7 @@ def update_activity(text):
         if info and info.get("pushed_at"):
             events.append((info["pushed_at"][:10], f"{name}: new commits"))
     events.sort(reverse=True)
-    lines = "\n".join(f"- {date} — {label}" for date, label in events[:3])
+    lines = "\n".join(f"- {date} · {label}" for date, label in events[:3])
 
     start = text.index(MARK_START)
     start = text.index("-->", start) + len("-->")
