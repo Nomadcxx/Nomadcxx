@@ -71,10 +71,6 @@ syscgo -effect matrix -theme eldritch -duration 10
 
 [repo →](https://github.com/Nomadcxx/sysc-Go)
 
-<br>
-
-<img src="https://raw.githubusercontent.com/Nomadcxx/sysc-Go/master/assets/matrix.webp" width="100%" alt="matrix rain effect">
-
 ---
 
 <br>
