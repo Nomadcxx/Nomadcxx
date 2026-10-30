@@ -36,7 +36,7 @@ Verify with `opencode models | grep cursor-acp`.
 
 ---
 
-### sysc-greet · 421★
+### sysc-greet · 424★
 
 A graphical console greeter for [greetd](https://git.sr.ht/~kennylevinsen/greetd), written in Go with Bubble Tea. Animated backgrounds and a theming system that matches the rest of my tooling: Eldritch, RAMA, Dracula. The session picker doesn't look like it was drawn in 1998.
 
@@ -79,7 +79,7 @@ syscgo -effect matrix -theme eldritch -duration 10
 
 | repo | what it is | |
 |---|---|---|
-| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility: static images and video via gstreamer | 82★ |
+| [gSlapper](https://github.com/Nomadcxx/gSlapper) | wallpaper utility: static images and video via gstreamer | 81★ |
 | [moonbit](https://github.com/Nomadcxx/moonbit) | system cleaner with a TUI and CLI | 67★ |
 | [sysc-walls](https://github.com/Nomadcxx/sysc-walls) | terminal screensaver with idle detection | 41★ |
 | [plex2jellyfin](https://github.com/Nomadcxx/plex2jellyfin) | migrate Plex → Jellyfin and keep the library clean | |
