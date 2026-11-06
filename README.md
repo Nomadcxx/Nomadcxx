@@ -89,9 +89,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
+- 2026-11-05 · searxng-RAMA: new commits
 - 2026-11-02 · sysc-greet v1.3.2
 - 2026-10-30 · plex2jellyfin v0.1.14
-- 2026-10-28 · sysc-Go v1.0.12
 <!-- ACTIVITY:END -->
 
 ### support
