@@ -36,7 +36,7 @@ Verify with `opencode models | grep cursor-acp`.
 
 ---
 
-### sysc-greet · 427★
+### sysc-greet · 426★
 
 A graphical console greeter for [greetd](https://git.sr.ht/~kennylevinsen/greetd), written in Go with Bubble Tea. Animated backgrounds and a theming system that matches the rest of my tooling: Eldritch, RAMA, Dracula. The session picker doesn't look like it was drawn in 1998.
 
@@ -89,9 +89,9 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
+- 2026-11-08 · gSlapper v1.5.4
 - 2026-11-05 · searxng-RAMA: new commits
 - 2026-11-02 · sysc-greet v1.3.2
-- 2026-10-30 · plex2jellyfin v0.1.14
 <!-- ACTIVITY:END -->
 
 ### support
