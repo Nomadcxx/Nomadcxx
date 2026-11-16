@@ -36,7 +36,7 @@ Verify with `opencode models | grep cursor-acp`.
 
 ---
 
-### sysc-greet · 430★
+### sysc-greet · 431★
 
 A graphical console greeter for [greetd](https://git.sr.ht/~kennylevinsen/greetd), written in Go with Bubble Tea. Animated backgrounds and a theming system that matches the rest of my tooling: Eldritch, RAMA, Dracula. The session picker doesn't look like it was drawn in 1998.
 
@@ -56,7 +56,7 @@ curl -fsSL https://raw.githubusercontent.com/Nomadcxx/sysc-greet/master/install.
 
 <br>
 
-### sysc-Go · 151★
+### sysc-Go · 152★
 
 The terminal animation library behind sysc-greet's backgrounds. Pure Go, drop-in for any Bubble Tea application, and a standalone CLI when you want the terminal to do something interesting.
 
