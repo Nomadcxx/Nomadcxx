@@ -7,7 +7,7 @@
 
 <br>
 
-### opencode-cursor · 725★
+### opencode-cursor · 723★
 
 **No prompt limits. No broken streams. Full thinking + tool support in OpenCode. Your Cursor subscription, properly integrated.**
 
