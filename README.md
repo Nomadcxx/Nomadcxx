@@ -56,7 +56,7 @@ curl -fsSL https://raw.githubusercontent.com/Nomadcxx/sysc-greet/master/install.
 
 <br>
 
-### sysc-Go · 152★
+### sysc-Go · 153★
 
 The terminal animation library behind sysc-greet's backgrounds. Pure Go, drop-in for any Bubble Tea application, and a standalone CLI when you want the terminal to do something interesting.
 
