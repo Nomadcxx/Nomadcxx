@@ -7,7 +7,7 @@
 
 <br>
 
-### opencode-cursor · 723★
+### opencode-cursor · 724★
 
 **No prompt limits. No broken streams. Full thinking + tool support in OpenCode. Your Cursor subscription, properly integrated.**
 
@@ -89,8 +89,8 @@ syscgo -effect matrix -theme eldritch -duration 10
 ### recently
 
 <!-- ACTIVITY:START — refreshed nightly by .github/workflows/readme.yml -->
+- 2026-11-20 · gSlapper v1.6.0
 - 2026-11-11 · opencode-cursor v2.5.19
-- 2026-11-08 · gSlapper v1.5.4
 - 2026-11-05 · searxng-RAMA: new commits
 <!-- ACTIVITY:END -->
 
